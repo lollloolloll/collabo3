@@ -1,4 +1,9 @@
 xyz
+<<<<<<< HEAD
 bcvsfefmsln
 zxcvb
 123789
+=======
+xyz
+abcde
+>>>>>>> feature1
